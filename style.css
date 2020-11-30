@@ -1,0 +1,20 @@
+html * {
+    margin: 0;
+    padding: 0;
+}
+
+#myBtn {
+    margin: 10px;
+}
+
+input {
+    width: 300px;
+}
+
+#previous-content {
+    margin-bottom: 10px;;
+}
+
+main{
+    margin: 10px;
+}
